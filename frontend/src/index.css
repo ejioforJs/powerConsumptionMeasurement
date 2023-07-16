@@ -1,0 +1,40 @@
+.containerBox {
+  height: 100vh;
+  text-align: center;
+  background-color: #f87171;
+}
+.headerText {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 700;
+  color: #1f2937;
+}
+.formStyle {
+  margin-top: 2rem;
+}
+.inputStyle {
+  padding: 0.75rem;
+  border-top-left-radius: 0.375rem;
+  border-bottom-left-radius: 0.375rem;
+  border-top-width: 2px;
+  border-bottom-width: 2px;
+  border-left-width: 2px;
+  border-color: #ffffff;
+  border-style: solid;
+  outline-style: none;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  background-color: #ffffff;
+  transition-duration: 500ms;
+}
+.buttonStyle {
+  padding: 0.75rem;
+  border-top-right-radius: 0.375rem;
+  border-bottom-right-radius: 0.375rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #3b82f6;
+  transition-duration: 500ms;
+}
